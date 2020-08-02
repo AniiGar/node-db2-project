@@ -12,7 +12,12 @@
     },
     "dependencies": {
         "express": "^4.17.1",
+<<<<<<< HEAD
         "knex": "^0.21.2",
         "sqlite3": "^5.0.0"
+=======
+        "knex": "^0.21.1",
+        "sqlite3": "^4.2.0"
+>>>>>>> d7649492ab99c8c9f6a4ad7c470bb01a48afa656
     }
 }
